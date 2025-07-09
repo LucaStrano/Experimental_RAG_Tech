@@ -10,10 +10,15 @@ The techniques included in this repository are **experimental** in nature, meani
 
 > Techniques marked with a 🧪 emoji are original contributions derived from my research that, to the best of my knowledge, have not been published or widely discussed elsewhere.
 
+
+The techniques implemented in this repository primarily rely on **Traditional NLP** methods, which offer a strong balance between quality and efficiency. While these methods may not match the raw power of LLMs, they can still produce highly satisfactory results, especially when considering the **quality/latency tradeoff**. This makes them particularly suitable for RAG environments, where low latency and high quality are often two critical requirements.
+
 ### ⁉️ Can I contribute?
 
 Absolutely! If you have a novel experimental technique that you've developed or even just thought about, please feel free to contact me. I would be happy to collaborate with you and credit you for your contribution. You can send me an email at **strano.lucass@gmail.com** or reach out to me on [LinkedIn](https://www.linkedin.com/in/strano-lucass/).
 
 ##  Table of Contents
 
-Why are you reading old commits? :/
+| # | Title | Type | Notebook |
+|---|-------|------|----------|
+| 1 | **Dynamically Estimating K using Query Complexity Score** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) |
