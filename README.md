@@ -21,4 +21,5 @@ Absolutely! If you have a novel experimental technique that you've developed or 
 
 | # | Title | Type | Notebook |
 |---|-------|------|----------|
-| 1 | **Dynamically Estimating K using Query Complexity Score** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) |
+| 1 | 🧪 **Dynamic K Estimation with Query Complexity Score** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb)<br>[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) |
+| 2 | 🧪 **Coming Soon** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)] |
