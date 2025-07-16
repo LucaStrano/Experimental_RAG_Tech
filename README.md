@@ -36,4 +36,4 @@ This technique introduces a novel approach to dynamically estimate the optimal n
 
 Type: 🎣 Retrieval
 
-This technique combines Reranking and Contextual Compression into a single pass by using a single Reranker Model. Retrieved documents are broken down into smaller sub-sections, which are then used to both rerank documents by calculating an average score and compress them by statstically selecting only the most relevant sub-sections with regard to the user query.
+This technique combines Reranking and Contextual Compression into a single pass by using a Reranker Model. Retrieved documents are broken down into smaller sub-sections, which are then used to both rerank documents by calculating an average score and compress them by statistically selecting only the most relevant sub-sections with regard to the user query.
