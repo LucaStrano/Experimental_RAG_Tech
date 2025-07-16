@@ -22,4 +22,18 @@ Absolutely! If you have a novel experimental technique that you've developed or 
 | # | Title | Type | Notebook |
 |---|-------|------|----------|
 | 1 | 🧪 **Dynamic K Estimation with Query Complexity Score** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) |
-| 2 | 🧪 **Single Pass Reranking and Compression** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) |
+| 2 | 🧪 **Single Pass Rerank and Compression with Recursive Reranking** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) |
+
+## Techniques Overview
+
+### 1. 🧪 Dynamic K Estimation with Query Complexity Score
+
+Type: 🎣 Retrieval
+
+This technique introduces a novel approach to dynamically estimate the optimal number of documents to retrieve (K) based on the complexity of the query. By using traditional NLP methods and by analyzing the query's structure and semantics, the (hyper)parameter K can be adjusted to ensure retrieval of the right amount of information needed for effective RAG.
+
+### 2. 🧪 Single Pass Rerank and Compression with Recursive Reranking
+
+Type: 🎣 Retrieval
+
+This technique combines Reranking and Contextual Compression into a single pass by using a single Reranker Model. Retrieved documents are broken down into smaller sub-sections, which are then used to both rerank documents by calculating an average score and compress them by statstically selecting only the most relevant sub-sections with regard to the user query.
