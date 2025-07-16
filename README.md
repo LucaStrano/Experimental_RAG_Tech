@@ -23,6 +23,7 @@ Absolutely! If you have a novel experimental technique that you've developed or 
 |---|-------|------|----------|
 | 1 | 🧪 **Dynamic K Estimation with Query Complexity Score** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/1_estimating_k.ipynb) |
 | 2 | 🧪 **Single Pass Rerank and Compression with Recursive Reranking** | 🎣 Retrieval | [![Github View](https://img.shields.io/badge/GitHub-View-blue)](https://github.com/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucaStrano/Experimental_RAG_Tech/blob/main/experimental_tech/2_compress_and_rerank.ipynb) |
+| 3 | 🧪 **Coming Soon!** | ❓ _Soon_ | _Coming Soon_ |
 
 ## Techniques Overview
 
